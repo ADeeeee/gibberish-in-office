@@ -11,3 +11,5 @@
 3. 請協助分類，以維持專案的整潔以及可視性
 
 4. 檔案命名請都以英文命名，並使用駝峰命名法（Camel-Case）
+
+5. commit 寫法請參考 AnlugarJS 團隊的[規範](https://wadehuanglearning.blogspot.com/2019/05/commit-commit-commit-why-what-commit.html)
